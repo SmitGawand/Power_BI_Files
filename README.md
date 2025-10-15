@@ -2,6 +2,8 @@
  This repository contains two Power BI dashboard projects designed to visualize key insights from the data jobs and data analytics job market. These projects leverage interactive data visualizations, advanced filtering, and analytic techniques to help users explore trends, skills, salaries, and geographical distributions within the data domain.
 
 ## Dashboard 1: Data Analyst Job Market Explorer  
+[Download Data Jobs Power BI.pbix](<Project 1/Data Jobs Power BI.pbix>)
+
 <img width="1504" height="849" alt="Screenshot 2025-10-11 193457" src="https://github.com/user-attachments/assets/54a3a6a8-e14f-4dd7-8e48-1e818d6b2a50" />  <img width="1506" height="856" alt="Screenshot 2025-10-11 193530" src="https://github.com/user-attachments/assets/ed6cb348-b933-4118-8f0c-b9fdfb839fe1" /> 
 
 
@@ -24,7 +26,9 @@ This dashboard focuses on comprehensive analytics regarding "Data Analyst" job r
 - Data Model Relationships & Calculated Columns
 - Role-based Filtering and Slicers for interactivity
 
-## Dashboard 2: Data Jobs Market Insights & Trends  
+## Dashboard 2: Data Jobs Market Insights & Trends 
+[Download Data Jobs Dashboard v2.pbix](<Project 2/Data Jobs Dashboard v2.pbix>)  
+
 <img width="1326" height="749" alt="Screenshot 2025-10-15 180227" src="https://github.com/user-attachments/assets/5e7426d0-592b-4238-9024-4ee18fa60859" />  
 
 ## Overview
@@ -58,4 +62,4 @@ This dashboard provides a broad perspective on the data jobs market, tracking tr
 - Refresh data and interact with the dashboards to explore insights.
 - Use slicers and drill-through features for custom exploration.
 
-## These dashboards are intended as portfolio-quality projects, demonstrating proficiency in Power BI, data modeling, interactive dashboards, and real-world analytic concepts relevant for data analyst and data engineering job markets.
+ These dashboards are intended as portfolio-quality projects, demonstrating proficiency in Power BI, data modeling, interactive dashboards, and real-world analytic concepts relevant for data analyst and data engineering job markets.
